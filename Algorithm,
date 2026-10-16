@@ -1,1 +1,18 @@
 
+Step 1: Start.
+Step 2: Create a dictionary with student admission details.
+Step 3: Display the admission details.
+Step 4: Use `get()` to access the name, student ID, and college.
+Step 5: Display the keys, values, and items of the dictionary.
+Step 6: Use `update()` to add fees to the dictionary.
+Step 7: Find and display the length of the dictionary.
+Step 8: Use `setdefault()` to add the year.
+Step 9: Use `pop()` to remove the fees.
+Step 10: Use `popitem()` to remove the last inserted item.
+Step 11: Copy the dictionary using `copy()`.
+Step 12: Use `clear()` to remove all items from the dictionary.
+Step 13: Read a string from the user.
+Step 14: Create an empty dictionary to store character frequencies.
+Step 15: Check each character in the string and count its frequency.
+Step 16: Display each character and its frequency.
+Step 17: Stop.
