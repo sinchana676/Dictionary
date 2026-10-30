@@ -1,3 +1,7 @@
+AIM
+To write a Python program to perform various dictionary methods and find the frequency of each character in a given string using a dictionary.
+
+ALGORITHM
 
 Step 1: Start.
 Step 2: Create a dictionary with student admission details.
